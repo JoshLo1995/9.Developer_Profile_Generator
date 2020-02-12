@@ -1,0 +1,22 @@
+{
+  "name": "9.developer_profile_generator",
+  "version": "1.0.0",
+  "description": "Creates a developer profile given a github username and returns a pdf file",
+  "main": "index.js",
+  "directories": {
+    "test": "jest"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshLo1995/9.Developer_Profile_Generator.git"
+  },
+  "author": "Joshua Lo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoshLo1995/9.Developer_Profile_Generator/issues"
+  },
+  "homepage": "https://github.com/JoshLo1995/9.Developer_Profile_Generator#readme"
+}
