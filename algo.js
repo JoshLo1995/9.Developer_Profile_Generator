@@ -1,5 +1,3 @@
-const Algo = require("./algo");
-
 function Algo() {};
 // Get username
 Algo.prototype.getUserName = function() {
@@ -42,8 +40,3 @@ Algo.prototype.getGithubStars = function() {
 Algo.prototype.getNumberFollowers = function() {
 
 }
-
-function sum(a,b) {
-    return a + b;
-}
-module.exports = sum;
